@@ -1,16 +1,15 @@
-# nbartle26.github.io
-
-#Data Analyst
+#Aspiring Data Analyst & Tech Consultant
 
 ###Education
-Management Information Systems major at University of Alabama
+BSc of Business Administration
+Management Information Systems major at the University of Alabama
 
 ###Projects
 Data Science Project
 Capstone Project
 
 ###Qualifications
-HTML
+HTML     
 SQL
 R
 Python
