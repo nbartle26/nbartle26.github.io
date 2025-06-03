@@ -49,3 +49,8 @@ My Contribution:
 •	Calibrated and set up the Trackman unit in assigned bullpen sessions each day
 
 
+Contact Information:
+
+[LinkedIn] (https://www.linkedin.com/in/nickolasbartle/)
+
+
