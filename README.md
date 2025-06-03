@@ -51,6 +51,6 @@ My Contribution:
 
 Contact Information:
 
-[LinkedIn] (https://www.linkedin.com/in/nickolasbartle/)
+[LinkedIn](https://www.linkedin.com/in/nickolasbartle/)
 
 
